@@ -9,4 +9,5 @@ For this study, we took the data from UCI Machine Learning called Online Retail 
 The dataset  is a transactional data that contains transactions from December 1st 2010 until December 9th 2011 for a UK-based online retail.
 
 A medium writeup that gives a detailed understanding of the work done can be found using the link below:-
+https://medium.com/@omotolaniosems/customer-segmentation-using-rfm-analysis-and-k-means-clustering-in-python-d9d90fc24e18
 
